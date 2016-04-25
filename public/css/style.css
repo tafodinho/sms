@@ -1,0 +1,16 @@
+.green-bar{
+	height: 5px;
+	background: #4CAE4C;
+}
+.login-box{
+	margin-top: 80px;
+}
+.register-box{
+	margin-top: 80px;
+}
+.reset-box{
+	margin-top: 80px;
+}
+.email-box{
+	margin-top: 80px;
+}
